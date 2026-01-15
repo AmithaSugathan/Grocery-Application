@@ -1,0 +1,7 @@
+reportgeneration\Listeners.class
+testscript\HomeTest.class
+testscript\LoginTest.class
+testscript\ManageNewsTest.class
+automationcore\Base.class
+retry\Retry.class
+testscript\AdminUserTest.class
